@@ -7,3 +7,10 @@ $c = 7
 $d = 8
 
 $d = 9
+
+$d = 8
+
+$sddsf = "sdfsfsdfsd"
+
+
+$sfsdf = "bla bal bal"
