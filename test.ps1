@@ -10,5 +10,7 @@ $d = 9
 
 $d = 8
 
-$sddsf = "sdfsfsdfsd
-"
+$sddsf = "sdfsfsdfsd"
+
+
+$sfsdf = "bla bal bal"
