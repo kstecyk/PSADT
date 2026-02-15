@@ -6,3 +6,7 @@ $formatted = Invoke-Formatter -ScriptDefinition $content
 Set-Content -Path $path -Value $formatted -Encoding UTF8
 
 Invoke-ScriptAnalyzer -Path $path
+
+echo
+
+

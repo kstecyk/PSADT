@@ -1,0 +1,5 @@
+{
+    "powershell.codeFormatting.autoCorrectAliases": true,
+    "powershell.integratedConsole.startInBackground": true,
+    "powershell.scriptAnalysis.settingsPath": ".\\vscode\\PSScriptAnalyzerSettings.psd1"
+}
